@@ -1,0 +1,22 @@
+{
+  "name": "nodeapptemp",
+  "version": "1.0.0",
+  "description": "Azure DevOps Test (from CloudGuru)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeorapetseCode/NodeAppTemp.git"
+  },
+  "author": "KeorapetseCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeorapetseCode/NodeAppTemp/issues"
+  },
+  "homepage": "https://github.com/KeorapetseCode/NodeAppTemp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
